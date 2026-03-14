@@ -1,31 +1,148 @@
-## Hi there, I'm Karan Singh
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Karan+Singh+👋;Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+Engineer;React+%7C+REST+APIs+%7C+Cloud" alt="Typing SVG" />
+</div>
 
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">🎓 B.Tech AI Student | ☕ Java Full Stack Developer | 🚀 Spring Boot & React Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karansingh2608&label=Profile%20views&color=0e75b6&style=flat" alt="karansingh2608" /> </p>
-
-- 🔭 I’m currently working on [AI Interview WebApp](https://github.com/KaranSingh2608/Ai-interview-WebApp)
-
-- 🌱 I’m currently learning **Spring Boot, Hibernate, RESTful APIs, Microservices Architecture, and Cloud Deployment (AWS/GCP)**
-
-- 👯 I’m looking to collaborate on [AI-Powered Expense Tracker](https://github.com/KaranSingh2608/ExpenseTracker)
-
-- 🤝 I’m looking for help with [Cloud Native Resource Monitoring App](https://github.com/KaranSingh2608/Cloud-Native-Resource-Monitoring-App)
-
-- 💬 Ask me about **React , Spring Boot**
-
-- 📫 How to reach me **rajputkaransingh969@gmail.com**
-
-- ⚡ Fun fact **I think I’m funny, but my compiler still throws “unexpected humor” errors 😆**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/karan-singh-developer/++++-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karan-singh-developer/++++-" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/karan-singh-developer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/karan-singh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:rajputkaransingh969@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karansingh2608&show_icons=true&locale=en&layout=compact" alt="karansingh2608" /></p>
+# About
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karansingh2608&" alt="karansingh2608" /></p>
+Java Full Stack Developer focused on building **scalable enterprise applications using Spring Boot and React.js**.
+
+I specialize in designing **REST APIs, microservices architectures, and automated CI/CD pipelines** while delivering responsive frontend interfaces using modern JavaScript frameworks.
+
+My work focuses on **clean architecture, scalable backend services, and production-grade software systems** built using Java technologies.
+
+| Backend Services | Microservices | Internship Experience | Leetcode |
+|:---:|:---:|:---:|:---:|
+| Spring Boot APIs | Distributed Systems | Software Engineer Intern | 500+ Questions |
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/>
+<img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman"/>
+</p>
+
+---
+
+## 🗄 Databases
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+</p>
+
+---
+
+## ⚡ DevOps & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
+</p>
+
+---
+
+## 🧪 Testing
+
+<p>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mockito-FF6C37?style=for-the-badge"/>
+</p>
+
+---
+
+## ☁️ Cloud
+
+<p>
+<img src="https://img.shields.io/badge/Oracle_Cloud-FF0000?style=for-the-badge&logo=oracle"/>
+</p>
+
+---
+
+# Experience
+
+## Software Engineer Intern  
+**nexTonecodes — Noida**  
+June 2025 – August 2025
+
+- Developed backend modules using **Java and Spring Framework**
+- Implemented **CI/CD pipelines** for automated build and deployment
+- Integrated frontend and backend components using **HTML, CSS, and JavaScript**
+- Worked in collaborative teams to deliver features within strict deadlines
+
+---
+
+# Certifications
+
+🏅 **Oracle Certified Foundation Associate**
+
+📜 **HCLTech – What is Generative AI**
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/karan-singh?cardType=octocat&theme=tokyonight&preferLogin=false" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karan-singh&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karan-singh&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+# Fun Facts
+
+☕ Passionate about **Java backend development and microservices**
+
+🚀 Interested in **cloud-native enterprise applications**
+
+💡 Enjoys building scalable backend architectures with Spring Boot
+
+---
+
+<div align="center">
+
+### 💭 "Building scalable enterprise applications with Java and Spring Boot"
+
+</div>
